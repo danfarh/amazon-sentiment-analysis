@@ -29,3 +29,16 @@ The following steps will be taken:
 - keras
 - transformers
 - scrapy
+
+## Results
+The machine learning models achieved the following performance on the held-out test set:
+
+- Support Vector Machine (SVM): 81% accuracy
+- Logistic Regression: 80% accuracy
+- Naive Bayes: 78% accuracy
+- Convolutional Neural Network (CNN): 85% accuracy
+- Long Short-Term Memory (LSTM): 87% accuracy
+- CNN-LSTM: 88% accuracy
+- Bidirectional Encoder Representations from Transformers (BERT): 92% accuracy
+
+Overall, the BERT model performed the best, achieving an accuracy of 92% on the test set. This model can be used to classify the sentiment of customer comments for clothing products sold on Amazon. The performance of different models was compared, and it was found that the BERT model outperformed the other models significantly.
