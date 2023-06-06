@@ -2,7 +2,7 @@
 This project aims to build several machine learning models to perform sentiment analysis on customer comments for clothing products sold on Amazon. The dataset used for this project is scraped from Amazon's website and contains customer comments and ratings for clothing products. The goal is to build models that can classify the sentiment of customer comments as positive, negative, or neutral, which can be used to gain insights into customer feedback and improve customer satisfaction.
 
 ## Dataset
-The dataset used for this project is scraped from Amazon's website and contains customer comments and ratings for clothing products. The dataset can be downloaded from this website.
+The dataset used for this project is scraped from Amazon's website and contains 50000 customer comments and ratings for clothing products. 
 
 ## Approach
 The project will use several machine learning algorithms to perform sentiment analysis on the Amazon clothing products comments dataset. The following algorithms will be used:
